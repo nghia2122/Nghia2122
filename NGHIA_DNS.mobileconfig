@@ -6,7 +6,7 @@
     <string>Locket Gold 💛</string>
 
     <key>PayloadDescription</key>
-    <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10;Katem Nguyễn</string>
+    <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10</string>
 
     <key>PayloadIdentifier</key>
     <string>com.katemnguyen.locketgold.profile</string>
@@ -24,7 +24,7 @@
     <integer>1</integer>
 
     <key>PayloadOrganization</key>
-    <string>Katem Nguyễn</string>
+    <string>NGHIA</string>
 
     <key>PayloadContent</key>
     <array>
